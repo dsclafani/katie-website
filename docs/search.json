@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-22T17:12:20-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "About",
+      "author": [],
+      "contents": "\n\n          \n      \n      Katie\n      \n      \n      Home\n      About\n      ☰\n      \n      \n      \n        \n          \n            About\n          \n          \n            \n              I am Phoebe.\n            \n            \n              I am Phoebe.\n            \n          \n\n          \n            \n              \n          \n\n          \n            \n              \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-03-22T17:12:20-07:00"
+    }
+  ],
+  "collections": []
+}

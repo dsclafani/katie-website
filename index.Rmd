@@ -1,0 +1,12 @@
+---
+title: "About"
+image: "phoebe.jpeg"
+
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I am Phoebe.
+
+
